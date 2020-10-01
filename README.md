@@ -9,5 +9,5 @@ _Italic_
 `Code` 
 
 ### Images
-![DNA](Biology.jpg "I am really interested in biology!")
-![WHS 542 Team Logo](542.jpg "I am part of the WHS 542 Robotics Team! Last year, we made it to worlds!")
+![DNA](Biology.png "I am really interested in biology!")
+![WHS 542 Team Logo](542.png "I am part of the WHS 542 Robotics Team! Last year, we made it to worlds!")
