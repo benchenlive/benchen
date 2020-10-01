@@ -6,7 +6,7 @@ This is my first time using GitHub, this is for class, trying to make a portfoli
 
 **Bold** 
 _Italic_
-`Code` text
+`Code` 
 
 ### Images
 ![DNA](Biology.jpg "I am really interested in biology!")
